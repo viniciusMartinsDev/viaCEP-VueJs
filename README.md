@@ -24,7 +24,6 @@ Essas são as tecnologias usadas neste projeto
 Para consultar o CEP basta acrescentar os números na caixa especificada e clicar "ENTER".
 
 ![Consulta](https://github.com/robovmp/viaCEP-VueJs/blob/main/assets/home2.png)
-### 3 - Após finalizar o formulário, será direcionado para a página incial.
 
 ## Links
   - Repository: https://github.com/robovmp/viaCEP-VueJs
