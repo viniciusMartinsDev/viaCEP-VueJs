@@ -17,23 +17,17 @@ Essas são as tecnologias usadas neste projeto
 
 ### 1 - Ao acessar o projeto, você verá esta página inicial.
 
-![Pagina Inicial](https://github.com/robovmp/semana-omnistack-07/blob/main/assets/homePage2.png)
+![Pagina Inicial](https://github.com/robovmp/viaCEP-VueJs/blob/main/assets/home.png)
 
-### 2 - Para adicionar posts clique no ícone de câmera, no canto superior direito e será direcionado a está página.
+### 2 - Consultando o CEP.
 
-![Post](https://github.com/robovmp/semana-omnistack-07/blob/main/assets/postPage.png)
+Para consultar o CEP basta acrescentar os números na caixa especificada e clicar "ENTER".
+
+![Consulta](https://github.com/robovmp/viaCEP-VueJs/blob/main/assets/home2.png)
 ### 3 - Após finalizar o formulário, será direcionado para a página incial.
 
-![Pagina Inicial](https://github.com/robovmp/semana-omnistack-07/blob/main/assets/homePage.png)
-
-### 4 - Vídeo Apresentação!
-#### Dentro desta pasta contém um vídeo de apresentação, mostrando o projeto em funcionamento :
-
-![video](https://github.com/robovmp/semana-omnistack-07/blob/main/assets/videoAssets.png)
-
-
 ## Links
-  - Repository: https://github.com/robovmp/semana-omnistack-07
+  - Repository: https://github.com/robovmp/viaCEP-VueJs
 
   ## Versão
 
